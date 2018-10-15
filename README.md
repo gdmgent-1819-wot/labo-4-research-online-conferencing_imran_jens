@@ -1,6 +1,6 @@
 # Research WOT
 
-## Jens Rottiers, Imran Muhammed - New Media Development
+## Jens Rottiers, Imran Muhammad - New Media Development
 
 **Assignment:** Create an online conferencing app via WebSockets en WebRTC via de PubNub-service
 
